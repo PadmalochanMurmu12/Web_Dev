@@ -1,0 +1,22 @@
+{
+  "name": "react-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "react-chat-app": "file:",
+    "socket.io": "^4.8.1"
+  }
+}
